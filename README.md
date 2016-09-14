@@ -1,2 +1,2 @@
 # authorize.net.cfc
-CIM (Customer Information Manager) Implementation in ColdFusion
+Authorize.net CIM (Customer Information Manager) Implementation in ColdFusion
